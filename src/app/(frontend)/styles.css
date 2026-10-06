@@ -1,0 +1,65 @@
+@import 'tailwindcss';
+
+/*
+ * Paleta ÆVΛ. Solo colores sólidos: agregar un gradiente es una decisión explícita
+ * (ver .glow-aeva, reservado para el brillo detrás de los símbolos).
+ */
+@theme {
+  --color-deep: #07162e;
+  --color-trust: #123b6d;
+  --color-action: #2b7cff;
+  --color-future: #25e6c8;
+  --color-clean: #f7faff;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-inter-tight), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    @apply bg-clean text-deep font-sans;
+  }
+
+  ::selection {
+    @apply bg-future text-deep;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-action;
+  }
+}
+
+@utility section-dark {
+  @apply bg-deep text-clean;
+}
+
+@utility section-light {
+  @apply bg-clean text-deep;
+}
+
+@utility container-aeva {
+  @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+}
+
+.glow-aeva {
+  background: radial-gradient(closest-side, rgb(37 230 200 / 0.18), transparent);
+}
+
+/* Lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}

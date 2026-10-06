@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "ÆVΛ — Creamos, aceleramos, evolucionamos",
+    "description": "ÆVΛ diseña y construye productos digitales: SaaS, apps, IA, agentes y e-commerce."
+  },
+  "nav": {
+    "whatWeDo": "Qué hacemos",
+    "products": "Productos",
+    "work": "Proyectos",
+    "labs": "Labs",
+    "contact": "Contacto",
+    "skip": "Saltar al contenido",
+    "language": "English"
+  },
+  "hero": {
+    "eyebrow": "Estudio de producto digital",
+    "title": "Creamos productos que aceleran y evolucionan.",
+    "lead": "Diseñamos, construimos y hacemos crecer software: SaaS, apps, inteligencia artificial y agentes.",
+    "cta": "Hablemos"
+  },
+  "whatWeDo": {
+    "title": "Qué hacemos",
+    "empty": "Pronto publicaremos nuestros servicios."
+  },
+  "why": {
+    "title": "Por qué ÆVΛ",
+    "pillars": [
+      { "verb": "crea", "text": "Partimos de una idea y la convertimos en un producto real." },
+      { "verb": "acelera", "text": "Equipos pequeños, decisiones rápidas y entregas cada semana." },
+      { "verb": "evoluciona", "text": "Lo que lanzamos aprende de sus usuarios y sigue creciendo." }
+    ]
+  },
+  "philosophy": {
+    "title": "Filosofía",
+    "lines": [
+      "Construimos lo que usaríamos.",
+      "Preferimos lanzar a prometer.",
+      "La claridad es una forma de velocidad.",
+      "Cada producto es un punto de partida."
+    ]
+  },
+  "products": { "eyebrow": "Built by ÆVΛ", "title": "Productos", "empty": "Nuestros productos están en construcción." },
+  "work": { "eyebrow": "Built with ÆVΛ", "title": "Proyectos", "empty": "Pronto compartiremos proyectos con clientes." },
+  "labs": { "eyebrow": "What's next?", "title": "Labs", "empty": "El laboratorio se está encendiendo." },
+  "status": {
+    "concept": "Concepto",
+    "building": "En construcción",
+    "beta": "Beta",
+    "live": "Disponible",
+    "idea": "Idea",
+    "prototype": "Prototipo",
+    "testing": "En pruebas",
+    "graduated": "Graduado"
+  },
+  "detail": {
+    "back": "Volver",
+    "visit": "Visitar",
+    "challenge": "Reto",
+    "solution": "Solución",
+    "results": "Resultados",
+    "client": "Cliente"
+  },
+  "contact": {
+    "title": "Construyamos algo",
+    "lead": "Cuéntanos qué tienes en mente y te respondemos en menos de dos días hábiles.",
+    "name": "Nombre",
+    "email": "Correo",
+    "company": "Empresa (opcional)",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "sending": "Enviando…",
+    "success": "Gracias. Recibimos tu mensaje y te escribiremos pronto.",
+    "error": "No pudimos enviar el mensaje. Inténtalo de nuevo.",
+    "invalid": "Revisa los campos marcados."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}

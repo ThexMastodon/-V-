@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "ÆVΛ — We create, accelerate, evolve",
+    "description": "ÆVΛ designs and builds digital products: SaaS, apps, AI, agents and e-commerce."
+  },
+  "nav": {
+    "whatWeDo": "What we do",
+    "products": "Products",
+    "work": "Work",
+    "labs": "Labs",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "language": "Español"
+  },
+  "hero": {
+    "eyebrow": "Digital product studio",
+    "title": "We build products that accelerate and evolve.",
+    "lead": "We design, build and grow software: SaaS, apps, artificial intelligence and agents.",
+    "cta": "Let's talk"
+  },
+  "whatWeDo": {
+    "title": "What we do",
+    "empty": "Our services will be listed soon."
+  },
+  "why": {
+    "title": "Why ÆVΛ",
+    "pillars": [
+      { "verb": "creates", "text": "We start from an idea and turn it into a real product." },
+      { "verb": "accelerates", "text": "Small teams, fast decisions and weekly releases." },
+      { "verb": "evolves", "text": "What we launch learns from its users and keeps growing." }
+    ]
+  },
+  "philosophy": {
+    "title": "Philosophy",
+    "lines": [
+      "We build what we would use.",
+      "We'd rather ship than promise.",
+      "Clarity is a form of speed.",
+      "Every product is a starting point."
+    ]
+  },
+  "products": { "eyebrow": "Built by ÆVΛ", "title": "Products", "empty": "Our products are under construction." },
+  "work": { "eyebrow": "Built with ÆVΛ", "title": "Work", "empty": "Client work coming soon." },
+  "labs": { "eyebrow": "What's next?", "title": "Labs", "empty": "The lab is warming up." },
+  "status": {
+    "concept": "Concept",
+    "building": "Building",
+    "beta": "Beta",
+    "live": "Live",
+    "idea": "Idea",
+    "prototype": "Prototype",
+    "testing": "Testing",
+    "graduated": "Graduated"
+  },
+  "detail": {
+    "back": "Back",
+    "visit": "Visit",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "results": "Results",
+    "client": "Client"
+  },
+  "contact": {
+    "title": "Let's build something",
+    "lead": "Tell us what you have in mind and we'll reply within two business days.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company (optional)",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success": "Thank you. We got your message and will be in touch soon.",
+    "error": "We couldn't send your message. Please try again.",
+    "invalid": "Please check the highlighted fields."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
